@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerStop", "TestDockerStop\TestDockerStop.csproj", "{4BE7A43B-49C2-40D4-893C-BFF53EC16993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE7A43B-49C2-40D4-893C-BFF53EC16993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE7A43B-49C2-40D4-893C-BFF53EC16993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE7A43B-49C2-40D4-893C-BFF53EC16993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE7A43B-49C2-40D4-893C-BFF53EC16993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108233D3-A25B-4B51-BB40-5AF76A3DC479}
+	EndGlobalSection
+EndGlobal
