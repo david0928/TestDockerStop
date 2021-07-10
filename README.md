@@ -51,11 +51,11 @@ public void ConfigureServices(IServiceCollection services)
 
 ## 使用 docker stop 結束
 
-執行 docker run
+執行 docker run  
 ![](docs/assets/docker_1.png)
 
-執行 docker stop
+執行 docker stop  
 ![](docs/assets/docker_2.png)
 
-docker stop 時，只會發送 SIGTERM，並沒有在 10 秒鐘後結束，應該算"優雅的結束"。
+docker stop 時，只會發送 SIGTERM，並沒有在 10 秒鐘後結束，應該算"優雅的結束"。  
 ![](docs/assets/docker_3.png)
